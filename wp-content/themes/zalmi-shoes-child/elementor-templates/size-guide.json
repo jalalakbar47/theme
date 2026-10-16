@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 FIND YOUR FIT",
+  "type": "page",
+  "content": [
+    {
+      "id": "000003c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000038",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000039",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "FIND YOUR FIT",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "000003a",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Measure both feet while standing. Compare the longer measurement with the manufacturer\u2019s size chart for the selected product.</p><p>Store owner: add verified product-specific measurements here. No universal size conversion is assumed.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000003b",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

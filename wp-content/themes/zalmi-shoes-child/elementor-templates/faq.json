@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 YOUR QUESTIONS, ANSWERED",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000037",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000033",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000034",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "YOUR QUESTIONS, ANSWERED",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000035",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<h2>How do I choose my size?</h2><p>Refer to the product\u2019s size information and the size guide. Sizing can vary by product.</p><h2>Where are shipping and return details?</h2><p>See our shipping and returns pages. Store policies must be configured before purchases are enabled.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000036",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

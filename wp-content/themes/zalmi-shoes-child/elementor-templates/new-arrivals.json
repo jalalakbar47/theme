@@ -1,0 +1,40 @@
+{
+  "version": "0.4",
+  "title": "NEW ARRIVALS",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000062",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000060",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "NEW ARRIVALS",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000061",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[zalmi_collection type=\"new\"]"
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

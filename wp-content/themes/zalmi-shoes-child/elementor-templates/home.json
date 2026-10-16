@@ -1,0 +1,434 @@
+{
+  "version": "0.4",
+  "title": "ZALMI SHOES \u2014 Home",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000009",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-hero zalmi-section",
+        "flex_direction": "row",
+        "flex_direction_mobile": "column",
+        "align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "0000006",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "boxed",
+            "css_classes": "",
+            "width": {
+              "unit": "%",
+              "size": 52
+            }
+          },
+          "elements": [
+            {
+              "id": "0000001",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p class=\"zalmi-eyebrow\">THE EVERYDAY COLLECTION / ZALMI SHOES</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000002",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "STEP INTO<br>YOUR STYLE",
+                "header_size": "h1"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000003",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Discover footwear for comfort, confidence, and everyday style. Find your next favorite pair.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000004",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "SHOP THE COLLECTION \u2197",
+                "link": {
+                  "url": "/shop/"
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000005",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Premium Footwear for Every Step.</p>"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000008",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "boxed",
+            "css_classes": "",
+            "width": {
+              "unit": "%",
+              "size": 48
+            }
+          },
+          "elements": [
+            {
+              "id": "0000007",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "/wp-content/themes/zalmi-shoes-child/assets/images/studio-shoe.png",
+                  "id": ""
+                },
+                "image_size": "full",
+                "caption_source": "custom",
+                "caption": "Original concept illustration \u2014 replace with actual product photography."
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "000000a",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">FIND YOUR EVERYDAY</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000000b",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "SHOP BY CATEGORY",
+            "header_size": "h2"
+          },
+          "elements": []
+        },
+        {
+          "id": "000000c",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[zalmi_categories]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "0000011",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "000000e",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">CONSIDERED STYLE. EVERY STEP.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000000f",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "FEATURED COLLECTION",
+            "header_size": "h2"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000010",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[zalmi_collection]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "0000015",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-promo"
+      },
+      "elements": [
+        {
+          "id": "0000012",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "FIND YOUR<br>PERFECT PAIR",
+            "header_size": "h2"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000013",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>A fresh perspective on everyday footwear.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000014",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE SHOES \u2197",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "0000018",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000016",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "JUST DROPPED",
+            "header_size": "h2"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000017",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[zalmi_collection type=\"new\"]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "0000024",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000019",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "WHY ZALMI SHOES?",
+            "header_size": "h2"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000023",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "boxed",
+            "css_classes": "",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column"
+          },
+          "elements": [
+            {
+              "id": "000001c",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "boxed",
+                "css_classes": "zalmi-feature"
+              },
+              "elements": [
+                {
+                  "id": "000001a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "01 / Comfort in focus",
+                    "header_size": "h3"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000001b",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Find the fit and style that suit your everyday routine."
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "000001f",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "boxed",
+                "css_classes": "zalmi-feature"
+              },
+              "elements": [
+                {
+                  "id": "000001d",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "02 / Your own style",
+                    "header_size": "h3"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000001e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Explore contemporary silhouettes, from casual days to special occasions."
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "0000022",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "boxed",
+                "css_classes": "zalmi-feature"
+              },
+              "elements": [
+                {
+                  "id": "0000020",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "03 / A simpler shop",
+                    "header_size": "h3"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0000021",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Browse clear product details and choose your size with confidence."
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000028",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000025",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "STAY IN STYLE",
+            "header_size": "h2"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000026",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>New collections. Fresh inspiration. Keep an eye on our latest arrivals.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000027",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "DISCOVER NEW ARRIVALS",
+            "link": {
+              "url": "/new-arrivals/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

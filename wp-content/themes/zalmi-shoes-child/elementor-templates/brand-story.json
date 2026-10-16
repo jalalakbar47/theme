@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 MADE FOR YOUR NEXT STEP",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000055",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000051",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000052",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "MADE FOR YOUR NEXT STEP",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000053",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Add your actual brand story and original photography. Share the inspiration behind your collections without unsupported manufacturing or sustainability claims.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000054",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

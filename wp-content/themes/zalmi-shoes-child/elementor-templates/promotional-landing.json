@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 A FRESH STEP FORWARD",
+  "type": "page",
+  "content": [
+    {
+      "id": "000005a",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000056",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000057",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "A FRESH STEP FORWARD",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000058",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Discover the latest collection. Update this campaign with verified offer details, dates and product photography.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000059",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

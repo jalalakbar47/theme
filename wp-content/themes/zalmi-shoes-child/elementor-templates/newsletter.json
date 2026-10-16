@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 STAY IN STYLE",
+  "type": "page",
+  "content": [
+    {
+      "id": "000005f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "000005b",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000005c",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "STAY IN STYLE",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "000005d",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Get updates about new collections and special offers. Store owner: connect a subscription provider, consent controls and privacy notice before adding a signup form.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000005e",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

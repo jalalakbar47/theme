@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 TERMS & CONDITIONS",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000050",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "000004c",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000004d",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "TERMS & CONDITIONS",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "000004e",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>DRAFT \u2014 replace with reviewed terms covering purchases, prices, payment, shipping, returns, applicable law and business identity. This starter text is not a complete legal policy.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000004f",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

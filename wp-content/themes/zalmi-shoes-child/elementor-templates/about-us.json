@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 ABOUT ZALMI SHOES",
+  "type": "page",
+  "content": [
+    {
+      "id": "000002d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000029",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000002a",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "ABOUT ZALMI SHOES",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "000002b",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Premium Footwear for Every Step.</p><p>Tell your brand story here: your beginnings, your approach to footwear, and what matters to your customers. This is editable starter content, not a claim about the business.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000002c",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

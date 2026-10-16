@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 PRIVACY POLICY",
+  "type": "page",
+  "content": [
+    {
+      "id": "000004b",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000047",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000048",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "PRIVACY POLICY",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000049",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>DRAFT \u2014 replace with a reviewed policy describing customer information, order processing, payment providers, cookies, analytics, retention, customer rights and contact details. Use WordPress Settings \u2192 Privacy as your starting point.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000004a",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

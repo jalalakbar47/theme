@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 LET\u2019S TALK",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000032",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "000002e",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "000002f",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "LET\u2019S TALK",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000030",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Business contact details have not been configured yet. Add your verified email, phone, address and social links here.</p><p>To accept messages, configure a maintained form plugin and replace this section with its shortcode. No submission form is active.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000031",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

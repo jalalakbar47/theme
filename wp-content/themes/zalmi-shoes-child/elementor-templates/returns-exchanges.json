@@ -1,0 +1,61 @@
+{
+  "version": "0.4",
+  "title": "ZALMI \u2014 RETURNS & EXCHANGES",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000046",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "css_classes": "zalmi-section"
+      },
+      "elements": [
+        {
+          "id": "0000042",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p class=\"zalmi-eyebrow\">ZALMI SHOES</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000043",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "RETURNS & EXCHANGES",
+            "header_size": "h1"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000044",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>DRAFT \u2014 the store owner must supply the return eligibility rules, time window, condition requirements, return address, exchange process and refund timing before launch.</p>"
+          },
+          "elements": []
+        },
+        {
+          "id": "0000045",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "EXPLORE THE COLLECTION",
+            "link": {
+              "url": "/shop/"
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}
